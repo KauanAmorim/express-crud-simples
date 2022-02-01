@@ -1,0 +1,19 @@
+{
+  "name": "express_crud_simples",
+  "version": "1.0.0",
+  "description": "Aqui tem um exercício de CRUD em NODEjs com Express.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node app.js",
+    "dev:watch": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
